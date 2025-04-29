@@ -1,0 +1,1 @@
+export { mapProductToUI } from './map-product-to-ui'
